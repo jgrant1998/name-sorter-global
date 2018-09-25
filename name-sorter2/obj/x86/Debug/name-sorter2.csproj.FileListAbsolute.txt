@@ -1,0 +1,6 @@
+/Users/jackson/Projects/name-sorter2/name-sorter2/bin/Debug/name-sorter2.exe
+/Users/jackson/Projects/name-sorter2/name-sorter2/bin/Debug/name-sorter2.pdb
+/Users/jackson/Projects/name-sorter2/name-sorter2/obj/x86/Debug/name-sorter2.csprojAssemblyReference.cache
+/Users/jackson/Projects/name-sorter2/name-sorter2/obj/x86/Debug/name-sorter2.csproj.CoreCompileInputs.cache
+/Users/jackson/Projects/name-sorter2/name-sorter2/obj/x86/Debug/name-sorter2.exe
+/Users/jackson/Projects/name-sorter2/name-sorter2/obj/x86/Debug/name-sorter2.pdb

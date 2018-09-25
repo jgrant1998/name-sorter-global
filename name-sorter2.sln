@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "name-sorter2", "name-sorter2\name-sorter2.csproj", "{E1CBA4FF-D2A7-4C7D-8019-F8C94F8C3430}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1CBA4FF-D2A7-4C7D-8019-F8C94F8C3430}.Debug|x86.ActiveCfg = Debug|x86
+		{E1CBA4FF-D2A7-4C7D-8019-F8C94F8C3430}.Debug|x86.Build.0 = Debug|x86
+		{E1CBA4FF-D2A7-4C7D-8019-F8C94F8C3430}.Release|x86.ActiveCfg = Release|x86
+		{E1CBA4FF-D2A7-4C7D-8019-F8C94F8C3430}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
