@@ -20,8 +20,6 @@ one should "depend upon abstractions, [not] concretions."[4]
 */
 
 
-
-
 namespace namesorted
 {
     class MainClass
